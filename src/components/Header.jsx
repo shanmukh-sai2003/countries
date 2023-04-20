@@ -6,7 +6,6 @@ function Header() {
         setDarkMode((prev) => !prev);
     }
     const body = document.querySelector("body");
-    const darkImg = document.querySelector("header img");
     darkMode ? body.setAttribute("data-theme", "dark") : body.setAttribute("data-theme", "light");
     return (
         <header>

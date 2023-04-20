@@ -11,6 +11,7 @@ function App() {
     const [homeClicked, setHomeClicked] = useState(false);
     const [isCardClicked, setIsCardClicked] = useState(false);
     const [singleCountry, setSingleCountry] = useState([]);
+    
     function fetchInfo() {
         return fetch(url).then(response => response.json()).then(data => setData(data));
     }
