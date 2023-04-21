@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/countries/static/js/main.6a73bd62.js",
+    "static/media/moon.png": "/countries/static/media/moon.e5585e508bad58301c6c.png",
+    "index.html": "/countries/index.html",
+    "main.6a73bd62.js.map": "/countries/static/js/main.6a73bd62.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6a73bd62.js"
+  ]
+}
